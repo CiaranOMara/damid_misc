@@ -20,6 +20,7 @@
 # Only works on Illumina v1.8 or greater fastq data ...
 
 use strict;
+use warnings FATAL => 'all';
 $|++;
 
 my %vars = (

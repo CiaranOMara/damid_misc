@@ -19,6 +19,7 @@
 # USA
 
 use strict;
+use warnings FATAL => 'all';
 use File::Basename;
 $|++;
 
